@@ -51,7 +51,7 @@
                 class="link"
                 href="https://github.com/Androz2091"
                 target="_blank"
-            >Androz2091</a> using <a
+            >☆Itz_Danny☆</a> using <a
                 class="hover:underline"
                 href="https://v3.vuejs.org"
                 target="_blank"
@@ -59,11 +59,7 @@
                 class="hover:underline"
                 href="https://tailwindcss.com"
                 target="_blank"
-            >TailwindCSS</a>. The code is publicly available on <a
-                class="link"
-                href="https://github.com/Androz2091/slash-commands-gui"
-                target="_blank"
-            >GitHub</a>.
+            >TailwindCSS</a>
         </p>
     </footer>
 </template>
